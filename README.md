@@ -1,2 +1,2 @@
 # Email_Spam_Detection
-The goal of this AIML (Artificial Intelligence &amp; Machine Learning) project is to develop an efficient email spam detection system that classifies incoming emails as "spam" or "not spam" (ham) using machine learning algorithms.
+This project focuses on detecting spam emails using Machine Learning and Natural Language Processing techniques. We performed data cleaning, handled missing values, and applied tokenization, stemming, and removal of stop words and special characters. A Bag of Words model was used to vectorize the text. Multiple classification models were tested, and the best-performing one was selected based on precision and accuracy.
